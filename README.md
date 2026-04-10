@@ -106,7 +106,7 @@ This project replicates a **real-world SaaS travel product**, demonstrating:
 
 ## 📌 Links
 - **Live Demo**: [AI Trip Planner](https://ai-trip-planner-gold-gamma.vercel.app/)  
-- **GitHub Repo**: [GitHub Repository](https://github.com/nikhil22321/AI-trip-planner)
+- **GitHub Repo**: [GitHub Repository](https://github.com/Priya-Sharma06/AI-Trip-Planner)
 
 ---
 
